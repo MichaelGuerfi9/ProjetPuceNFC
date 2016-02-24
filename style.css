@@ -4,12 +4,12 @@ a{
 
 .header {
     background-color: rgb(255, 255, 255);
-    position: absolute;
+    position: fixed;
     left: 0px;
     top: 0px;
     width: 100%;
     height: 143px;
-    z-index: 7;
+    z-index: 30;
 }
 
 .accueil {
@@ -107,4 +107,16 @@ a{
 
 
 
+.presentation {
+    font-size: 24px;
+    font-family: "DroidSerif";
+    color: rgb(113, 113, 113);
+    line-height: 2;
+    text-align: center;
+    position: absolute;
+    left: 3%;
+    right: 3%;
+    top: 30%;
+    z-index: 22;
+}
 
