@@ -1,0 +1,9 @@
+*.idea
+*.log
+Thumbs.db
+.DS_Store
+*.sublime-*
+.*.swp
+.swp
+config/dbconf.php
+# Created by .ignore support plugin (hsz.mobi)
